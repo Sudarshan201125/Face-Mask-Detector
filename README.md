@@ -25,7 +25,7 @@ How to Use
 To use this project on your system, follow these steps:
 
 1.Clone this repository onto your system by typing the following command on your Command Prompt:
-git clone 
+git clone https://github.com/Sudarshan201125/Face-Mask-Detector.git
 
 2.cd FaceMaskDetector
 
