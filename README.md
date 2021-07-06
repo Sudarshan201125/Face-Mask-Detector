@@ -19,7 +19,7 @@ No Mask
 
 
 # Dataset
-The data used can be downloaded through this https://data-flair.training/blogs/download-face-mask-data/ or can be downloaded from this repository as well (folders 'test' and 'train'). There are 1314 training images and 194 test images divided into two catgories, with and without mask.
+The data used can be downloaded through this https://data-flair.training/blogs/download-face-mask-data/ . There are 1314 training images and 194 test images divided into two catgories, with and without mask.
 
 How to Use
 To use this project on your system, follow these steps:
